@@ -1,0 +1,16 @@
+{
+  "/_not-found/page": "/_not-found",
+  "/api/auth/[...nextauth]/route": "/api/auth/[...nextauth]",
+  "/api/auth/register/route": "/api/auth/register",
+  "/api/products/[id]/route": "/api/products/[id]",
+  "/api/products/route": "/api/products",
+  "/api/upload/route": "/api/upload",
+  "/api/wishlist/route": "/api/wishlist",
+  "/dashboard/page": "/dashboard",
+  "/explore/[slug]/page": "/explore/[slug]",
+  "/explore/page": "/explore",
+  "/page": "/",
+  "/sell/page": "/sell",
+  "/(auth)/login/page": "/login",
+  "/(auth)/register/page": "/register"
+}
